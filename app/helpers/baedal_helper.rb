@@ -1,0 +1,2 @@
+module BaedalHelper
+end

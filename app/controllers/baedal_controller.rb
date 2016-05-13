@@ -1,0 +1,2 @@
+class BaedalController < ApplicationController
+end
